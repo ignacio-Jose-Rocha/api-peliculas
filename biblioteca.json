@@ -1,0 +1,118 @@
+{
+  "actores": [
+    {
+      "id": "5219b4f9-6205-43a8-91ca-c22c7effad48",
+      "nombre": "Margot Robbie"
+    },
+    {
+      "id": "2071bfac-dd73-44e0-80a6-260fc48af105",
+      "nombre": "Ryan Gosling"
+    },
+    {
+      "id": "316ae44b-16d8-4490-9be1-016e6415d289",
+      "nombre": "Leonardo Di Caprio"
+    },
+    {
+      "id": "2b41a46f-9ac8-46ff-a67d-8a4bc9cf83a9",
+      "nombre": "Cillian Murphy"
+    },
+    {
+      "id": "48379e6a-49fb-466e-9682-a7ceec0bf882",
+      "nombre": "Christian Bale"
+    },
+    {
+      "id": "4ebd6783-1d8f-47ab-a433-b3664bf49c9c",
+      "nombre": "Heath Ledger"
+    }
+  ],
+  "directores": [
+    {
+      "id": "b8ac5230-107d-45c4-9177-215a199b6b8a",
+      "nombre": "Christopher Nolan"
+    },
+    {
+      "id": "11ceee6d-331c-4d27-b990-1d746948aa9b",
+      "nombre": "Greta Gerwig"
+    },
+    {
+      "id": "0c8ca266-f495-4eae-8025-bc92871652f1",
+      "nombre": "Martin Scorsese"
+    }
+  ],
+  "peliculas": [
+    {
+      "id": "1da2004f-be88-4cd3-93be-1442fbbd78a1",
+      "director": "11ceee6d-331c-4d27-b990-1d746948aa9b",
+      "nombre": "Barbie",
+      "anio": "2023",
+      "genero": "dea0d5e1-4eeb-40ae-9614-cad44fb4651e",
+      "actores": [
+        {
+          "id": "5219b4f9-6205-43a8-91ca-c22c7effad48"
+        },
+        {
+          "id": "2071bfac-dd73-44e0-80a6-260fc48af105"
+        }
+      ]
+    },
+    {
+      "id": "d9fb011e-ba06-47e3-a59d-0bed8d3b1d55",
+      "director": "0c8ca266-f495-4eae-8025-bc92871652f1",
+      "nombre": "The Wolf of Wall Street",
+      "anio": "2013",
+      "genero": "dea0d5e1-4eeb-40ae-9614-cad44fb4651e",
+      "actores": [
+        {
+          "id": "316ae44b-16d8-4490-9be1-016e6415d289"
+        },
+        {
+          "id": "5219b4f9-6205-43a8-91ca-c22c7effad48"
+        }
+      ]
+    },
+    {
+      "id": "be94227c-5981-428b-b424-478d86d8ee26",
+      "director": "b8ac5230-107d-45c4-9177-215a199b6b8a",
+      "nombre": "Inception",
+      "anio": "2010",
+      "genero": "0a8d435e-a579-4bee-a769-490d532e23ff",
+      "actores": [
+        {
+          "id": "316ae44b-16d8-4490-9be1-016e6415d289"
+        },
+        {
+          "id": "2b41a46f-9ac8-46ff-a67d-8a4bc9cf83a9"
+        }
+      ]
+    },
+    {
+      "id": "23a2ce01-ad69-43f5-b7d6-8f54d8489abc",
+      "director": "b8ac5230-107d-45c4-9177-215a199b6b8a",
+      "nombre": "The Dark Knight",
+      "anio": "2008",
+      "genero": "e3646bf5-3c6a-4609-8192-3ed991f84f89",
+      "actores": [
+        {
+          "id": "48379e6a-49fb-466e-9682-a7ceec0bf882"
+        },
+        {
+          "id": "4ebd6783-1d8f-47ab-a433-b3664bf49c9c"
+        }
+      ]
+    }
+  ],
+  "generos": [
+    {
+      "id": "e3646bf5-3c6a-4609-8192-3ed991f84f89",
+      "nombre": "accion"
+    },
+    {
+      "id": "dea0d5e1-4eeb-40ae-9614-cad44fb4651e",
+      "nombre": "comedia"
+    },
+    {
+      "id": "0a8d435e-a579-4bee-a769-490d532e23ff",
+      "nombre": "ciencia ficcion"
+    }
+  ]
+}
